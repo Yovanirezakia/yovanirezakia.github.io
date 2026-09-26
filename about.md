@@ -4,7 +4,8 @@ title: Gue Siapa?
 permalink: /about/
 ---
 ### Sosok Mahasiswa Prikk
-![Sosok Mahasiswa Prik](/images/foto1.jpeg)
+
+<img src="/images/foto1.jpeg" alt="Sosok Mahasiswa Prikk" width="250px" style="border-radius: 10px;">
 
 Hai hai semuaaaa….. Selamat datang di blog pribadi gue, manusia antah berantah yang lagi berada di Surabaya dalam rangka kuliah S2 di Ibu Yang Luhur (ITS). Gue jurusan Teknik Elektro prodi Teknik Elektronika, entah kenapa gue bisa terlempar ke jurusan teknik yang menyakitkan dan memakan otak mansia ini wkwk. Walupun begitu gue mencintai bidang ini lebih dari….? ga sih ga lebih dari apapun haha. Tapi gue berusaha keras menjadi anak “Teknik Sejati” dengan otak gue yang seadanya ini, buktinya sekarang gue lanjut S2 gokiiiiilll.
 
