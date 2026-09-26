@@ -19,4 +19,4 @@ Oiya, dosen gue pernah bilang gini â€œKalau ga jenius, jangan pura-pura jeniusâ€
 
 ### Contact gue
 
-[email@domain.com](mailto:yovanirezakia22@gmail.com)
+[yovanirezakia22@gmail.com](mailto:yovanirezakia22@gmail.com)
