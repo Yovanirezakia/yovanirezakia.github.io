@@ -6,7 +6,7 @@ permalink: /about/
 ### Sosok Mahasiswa Prikk
 
 <div style="text-align: center;">
-  <img src="/images/foto1.jpeg" alt="Sosok Mahasiswa Prikk" style="width: 200px; max-width: 100%; height: auto: 10px;">
+  <img src="/images/foto2.jpeg" alt="Sosok Mahasiswa Prikk" style="width: 200px; max-width: 100%; height: auto: 10px;">
 </div>
 
 Hai hai semuaaaa.....
