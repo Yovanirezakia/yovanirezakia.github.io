@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gue Siapa?
+title: Sosok Mahasiswa Prikk
 permalink: /about/
 ---
 ### Sosok Mahasiswa Prikk
