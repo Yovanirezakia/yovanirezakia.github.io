@@ -33,3 +33,18 @@ Oiya, dosen gue pernah bilang gini â€œKalau ga jenius, jangan pura-pura jeniusâ€
 ### Contact gue
 
 [yovanirezakia22@gmail.com](mailto:yovanirezakia22@gmail.com)
+
+
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = 'https://yovanirezakia.github.io/about/';
+        this.page.identifier = '/about/';
+    };
+    (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://yovanehere.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
