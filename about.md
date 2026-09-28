@@ -5,13 +5,7 @@ permalink: /about/
 ---
 ### Sosok Mahasiswa Prikk
 
-<style>
-  .post-content p {
-    text-align: justify;       /* Rata kanan-kiri */
-    text-indent: 30px;         /* Menjorokkan awal paragraf ke dalam */
-    margin-bottom: 1.5em;      /* Jarak/spasi antar paragraf */
-  }
-</style>
+
 
 <div style="text-align: center;">
   <img src="/images/foto2.jpeg" alt="Sosok Mahasiswa Prikk" style="width: 200px; max-width: 100%; height: auto: 10px;">
