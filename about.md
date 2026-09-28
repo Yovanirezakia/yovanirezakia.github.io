@@ -21,6 +21,7 @@ Waktu kecil gue suka main ginggong (ada yang tau? orang Padang pasti tau), ada t
 Tujuan gue bikin blog ini, gue mau share story seputar kehidupan kuliah gue dan share project yang lagi gue kerjakan. Ini bukan blog serius karna yang bikin blog orang prikk.
 
 
+
 Semoga ga ada yang baca blog gue.
 
 
