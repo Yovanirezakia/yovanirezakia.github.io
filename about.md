@@ -3,8 +3,6 @@ layout: page
 title: Sosok Mahasiswa Prikk
 permalink: /about/
 ---
-### Sosok Mahasiswa Prikk
-
 
 
 <div style="text-align: center;">
