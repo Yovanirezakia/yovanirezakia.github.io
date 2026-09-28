@@ -19,7 +19,7 @@ Tujuan gue bikin blog ini, gue mau share story seputar kehidupan kuliah gue dan 
 Semoga ga ada yang baca blog gue.
 
 
-Oiya, dosen gue pernah bilang gini “Kalau ga jenius, jangan pura-pura jenius” gue suka kata-katanya karna itu berarti lampu hijau bahwa gue bisa mengatakan ga paham di materinya wkwkwkw.
+Oiya, dosen gue pernah bilang gini “Kalau ga jenius, jangan pura-pura jenius” gue suka kata-katanya karna itu berarti lampu hijau bahwa gue bisa mengatakan ga paham di materinya wkwk.
 
 
 
