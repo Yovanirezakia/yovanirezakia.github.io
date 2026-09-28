@@ -20,19 +20,13 @@ Waktu kecil gue suka main ginggong (ada yang tau? orang Padang pasti tau), ada t
 
 Tujuan gue bikin blog ini, gue mau share story seputar kehidupan kuliah gue dan share project yang lagi gue kerjakan. Ini bukan blog serius karna yang bikin blog orang prikk.
 
-
-
+---
 Semoga ga ada yang baca blog gue.
-
+---
 
 Oiya, dosen gue pernah bilang gini “Kalau ga jenius, jangan pura-pura jenius” gue suka kata-katanya karna itu berarti lampu hijau bahwa gue bisa mengatakan ga paham di materinya wkwk.
 
 
-
-
-### Contact gue
-
-[yovanirezakia22@gmail.com](mailto:yovanirezakia22@gmail.com)
 
 
 <div id="disqus_thread"></div>
