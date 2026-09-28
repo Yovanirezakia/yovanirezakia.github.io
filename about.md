@@ -9,6 +9,8 @@ permalink: /about/
   <img src="/images/foto2.jpeg" alt="Sosok Mahasiswa Prikk" style="width: 200px; max-width: 100%; height: auto: 10px;">
 </div>
 
+<div style="text-align: justify;">
+
 Hai hai semuaaaa.....
 
 Selamat datang di blog pribadi gue, manusia antah berantah yang lagi berada di Surabaya dalam rangka kuliah S2 di Ibu Yang Luhur (ITS). Gue jurusan Teknik Elektro prodi Teknik Elektronika, entah kenapa gue bisa terlempar ke jurusan teknik yang menyakitkan dan memakan otak mansia ini wkwk. Walupun begitu gue mencintai bidang ini lebih dari….? ga sih ga lebih dari apapun haha. Tapi gue berusaha keras menjadi anak “Teknik Sejati” dengan otak gue yang seadanya ini, buktinya sekarang gue lanjut S2 gokiiiiilll.
@@ -21,6 +23,8 @@ Semoga ga ada yang baca blog gue.
 
 
 Oiya, dosen gue pernah bilang gini “Kalau ga jenius, jangan pura-pura jenius” gue suka kata-katanya karna itu berarti lampu hijau bahwa gue bisa mengatakan ga paham di materinya wkwk.
+
+</div>
 
 
 
