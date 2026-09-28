@@ -9,7 +9,6 @@ permalink: /about/
   <img src="/images/foto2.jpeg" alt="Sosok Mahasiswa Prikk" style="width: 200px; max-width: 100%; height: auto: 10px;">
 </div>
 
-<div style="text-align: justify;">
 
 Hai hai semuaaaa.....
 
