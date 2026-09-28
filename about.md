@@ -27,8 +27,6 @@ Semoga ga ada yang baca blog gue.
 Oiya, dosen gue pernah bilang gini “Kalau ga jenius, jangan pura-pura jenius” gue suka kata-katanya karna itu berarti lampu hijau bahwa gue bisa mengatakan ga paham di materinya wkwk.
 
 
-
-
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
